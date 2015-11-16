@@ -6,3 +6,4 @@ Ejercicios de programación correspondientes a la UD2, elementos de un programa,
 - [Ejercicio 2 - Fecha a texto](./02_fecha_texto/).
 - [Ejercicio 3 - Contar letras](./03_contar_letras/).
 - [Ejercicio 4 - Matriz 3x3](./04_matriz_3x3/).
+- [Ejercicio 5 - Matriz 10x10](./05_matriz_10x10/).
