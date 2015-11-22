@@ -36,8 +36,7 @@ public class Matriz3x3 {
         
         for (int i = 0; i < 3; i++)
         {
-            System.out.format("%d %d %d", matriz[i][0],matriz[i][1],matriz[i][2]);
-            System.out.println("");
+            System.out.format("%d %d %d %n", matriz[i][0],matriz[i][1],matriz[i][2]);
         }
         
         
